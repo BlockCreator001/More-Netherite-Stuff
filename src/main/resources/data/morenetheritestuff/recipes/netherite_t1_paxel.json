@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PAH",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "morenetheritestuff:netherite_t1_pickaxe"
+    },
+    "A": {
+      "item": "morenetheritestuff:netherite_t1_axe"
+    },
+    "H": {
+      "item": "morenetheritestuff:netherite_t1_shovel"
+    }
+  },
+  "result": {
+    "item": "morenetheritestuff:netherite_t1_paxel"
+  }
+}

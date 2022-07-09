@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "morenetheritestuff:netherite_t1_ingot"
+    }
+  },
+  "result": {
+    "item": "morenetheritestuff:netherite_t1_block"
+  }
+}

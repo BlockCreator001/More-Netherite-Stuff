@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "morenetheritestuff:netherite_t3_ingot"
+    }
+  },
+  "result": {
+    "item": "morenetheritestuff:netherite_t3_leggings"
+  }
+}

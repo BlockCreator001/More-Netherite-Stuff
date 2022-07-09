@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " II",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "morenetheritestuff:netherite_t4_ingot"
+    }
+  },
+  "result": {
+    "item": "morenetheritestuff:netherite_t4_hoe"
+  }
+}

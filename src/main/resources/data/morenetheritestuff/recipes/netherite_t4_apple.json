@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "XAX",
+    "#X#"
+  ],
+  "key": {
+    "A": {
+      "item": "morenetheritestuff:netherite_t3_apple"
+    },
+    "#": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "morenetheritestuff:netherite_t4_ingot"
+    }
+  },
+  "result": {
+    "item": "morenetheritestuff:netherite_t4_apple"
+  }
+}
