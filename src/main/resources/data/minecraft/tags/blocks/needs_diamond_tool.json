@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "morenetheritestuff:netherite_t1_block",
+    "morenetheritestuff:netherite_t2_block",
+    "morenetheritestuff:netherite_t3_block",
+    "morenetheritestuff:netherite_t4_block"
+  ]
+}
