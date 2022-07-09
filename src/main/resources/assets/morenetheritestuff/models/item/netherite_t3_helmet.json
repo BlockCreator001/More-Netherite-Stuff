@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "morenetheritestuff:item/netherite_t3_helmet"
+  }
+}

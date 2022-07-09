@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "morenetheritestuff:block/netherite_t1_block"
+  }
+}

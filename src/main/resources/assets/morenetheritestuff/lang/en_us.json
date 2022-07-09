@@ -1,0 +1,75 @@
+{
+  "item.morenetheritestuff.netherite_t1_ingot": "Netherite T1 Ingot",
+  "item.morenetheritestuff.netherite_t2_ingot": "Netherite T2 Ingot",
+  "item.morenetheritestuff.netherite_t3_ingot": "Netherite T3 Ingot",
+  "item.morenetheritestuff.netherite_t4_ingot": "Netherite T4 Ingot",
+
+  "item.morenetheritestuff.netherite_t1_nugget": "Netherite T1 Nugget",
+  "item.morenetheritestuff.netherite_t2_nugget": "Netherite T2 Nugget",
+  "item.morenetheritestuff.netherite_t3_nugget": "Netherite T3 Nugget",
+  "item.morenetheritestuff.netherite_t4_nugget": "Netherite T4 Nugget",
+
+  "item.morenetheritestuff.netherite_t1_apple": "Netherite T1 Apple",
+  "item.morenetheritestuff.netherite_t2_apple": "Netherite T2 Apple",
+  "item.morenetheritestuff.netherite_t3_apple": "Netherite T3 Apple",
+  "item.morenetheritestuff.netherite_t4_apple": "Netherite T4 Apple",
+
+  "block.morenetheritestuff.netherite_t1_block": "Netherite T1 Block",
+  "block.morenetheritestuff.netherite_t2_block": "Netherite T2 Block",
+  "block.morenetheritestuff.netherite_t3_block": "Netherite T3 Block",
+  "block.morenetheritestuff.netherite_t4_block": "Netherite T4 Block",
+
+  "item.morenetheritestuff.netherite_t1_sword": "Netherite T1 Sword",
+  "item.morenetheritestuff.netherite_t2_sword": "Netherite T2 Sword",
+  "item.morenetheritestuff.netherite_t3_sword": "Netherite T3 Sword",
+  "item.morenetheritestuff.netherite_t4_sword": "Netherite T4 Sword",
+
+  "item.morenetheritestuff.netherite_t1_pickaxe": "Netherite T1 Pickaxe",
+  "item.morenetheritestuff.netherite_t2_pickaxe": "Netherite T2 Pickaxe",
+  "item.morenetheritestuff.netherite_t3_pickaxe": "Netherite T3 Pickaxe",
+  "item.morenetheritestuff.netherite_t4_pickaxe": "Netherite T4 Pickaxe",
+
+  "item.morenetheritestuff.netherite_t1_axe": "Netherite T1 Axe",
+  "item.morenetheritestuff.netherite_t2_axe": "Netherite T2 Axe",
+  "item.morenetheritestuff.netherite_t3_axe": "Netherite T3 Axe",
+  "item.morenetheritestuff.netherite_t4_axe": "Netherite T4 Axe",
+
+  "item.morenetheritestuff.netherite_t1_shovel": "Netherite T1 Shovel",
+  "item.morenetheritestuff.netherite_t2_shovel": "Netherite T2 Shovel",
+  "item.morenetheritestuff.netherite_t3_shovel": "Netherite T3 Shovel",
+  "item.morenetheritestuff.netherite_t4_shovel": "Netherite T4 Shovel",
+
+  "item.morenetheritestuff.netherite_t1_hoe": "Netherite T1 Hoe",
+  "item.morenetheritestuff.netherite_t2_hoe": "Netherite T2 Hoe",
+  "item.morenetheritestuff.netherite_t3_hoe": "Netherite T3 Hoe",
+  "item.morenetheritestuff.netherite_t4_hoe": "Netherite T4 Hoe",
+
+  "item.morenetheritestuff.netherite_t1_paxel": "Netherite T1 Paxel",
+  "item.morenetheritestuff.netherite_t2_paxel": "Netherite T2 Paxel",
+  "item.morenetheritestuff.netherite_t3_paxel": "Netherite T3 Paxel",
+  "item.morenetheritestuff.netherite_t4_paxel": "Netherite T4 Paxel",
+
+  "item.morenetheritestuff.netherite_t1_helmet": "Netherite T1 Helmet",
+  "item.morenetheritestuff.netherite_t2_helmet": "Netherite T2 Helmet",
+  "item.morenetheritestuff.netherite_t3_helmet": "Netherite T3 Helmet",
+  "item.morenetheritestuff.netherite_t4_helmet": "Netherite T4 Helmet",
+
+  "item.morenetheritestuff.netherite_t1_chestplate": "Netherite T1 Chestplate",
+  "item.morenetheritestuff.netherite_t2_chestplate": "Netherite T2 Chestplate",
+  "item.morenetheritestuff.netherite_t3_chestplate": "Netherite T3 Chestplate",
+  "item.morenetheritestuff.netherite_t4_chestplate": "Netherite T4 Chestplate",
+
+  "item.morenetheritestuff.netherite_t1_leggings": "Netherite T1 Leggings",
+  "item.morenetheritestuff.netherite_t2_leggings": "Netherite T2 Leggings",
+  "item.morenetheritestuff.netherite_t3_leggings": "Netherite T3 Leggings",
+  "item.morenetheritestuff.netherite_t4_leggings": "Netherite T4 Leggings",
+
+  "item.morenetheritestuff.data_table": "Data Tablet",
+
+  "item.morenetheritestuff.netherite_t1_boots": "Netherite T1 Boots",
+  "item.morenetheritestuff.netherite_t2_boots": "Netherite T2 Boots",
+  "item.morenetheritestuff.netherite_t3_boots": "Netherite T3 Boots",
+  "item.morenetheritestuff.netherite_t4_boots": "Netherite T4 Boots",
+
+  "itemGroup.morenetheritestufftab": "MoreNetheriteStuff Mod"
+}

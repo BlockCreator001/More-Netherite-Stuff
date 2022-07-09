@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "morenetheritestuff:item/netherite_t4_axe"
+  }
+}

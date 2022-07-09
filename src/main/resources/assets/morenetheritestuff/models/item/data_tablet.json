@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "morenetheritestuff:item/data_tablet_off"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "morenetheritestuff:on": 1
+      },
+      "model": "morenetheritestuff:item/data_tablet_on"
+    }
+  ]
+}
